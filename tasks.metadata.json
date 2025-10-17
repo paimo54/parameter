@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"device":{"$numberInt":"1"},"timestamp":{"$numberInt":"1"}},"name":"device_1_timestamp_1"}],"uuid":"b91e39d98a524ef38fc6c089dd30edd1","collectionName":"tasks","type":"collection"}
